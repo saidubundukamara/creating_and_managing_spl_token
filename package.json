@@ -1,0 +1,20 @@
+{
+  "name": "spl_token_22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "@solana-developers/helpers": "^2.3.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/spl-token-metadata": "^0.1.4",
+    "@solana/web3.js": "^1.95.1"
+  }
+}
