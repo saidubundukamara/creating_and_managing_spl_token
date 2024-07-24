@@ -14,7 +14,7 @@ This project demonstrates how to create **SPL Token using the Solana's Token 22 
 To get started with the project, you need to have **Node.js** installed on your machine. Once you have Node.js, you can clone the repository and install the dependencies.
 
 ```bash
-git clone <r[epository-url](https://github.com/saidubundukamara/spy_token_with_metadata)>
+git clone [GitHub](https://github.com/saidubundukamara/creating_and_managing_spl_token/tree/main)
 
 cd token_with_metadata
 
